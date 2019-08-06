@@ -5,17 +5,14 @@ cover: /assets/4.jpg
 slug: slug
 category: test
 tags:
-  - green robots
+  - green
+  - robots
 ---
 **bold**
 
-****
+- - -
 
 a link [www.google.com](www.google.com)  
-
-
-
-
 
 1. tewte
 2. set
